@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lolpgame/Lolpgame/blob/main/github-contribution-grid-snake.svg)
 
 <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"/>
 
